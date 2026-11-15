@@ -920,11 +920,11 @@ namespace BTTH1
 
 
 #### kết quả
+```text
 Chọn bài: 16
 Nhap a (Enter = 24):
 Nhap b (Enter = 12):
 UCLN = 12
-```text
 
 ```
 
